@@ -22,11 +22,11 @@ do{
 
 if(didFind)
 {
-    println("Did find entry for 75006:Carrolton")
+    print("Did find entry for 75006:Carrolton")
 }
 else
 {
-    println("Did not find entry for 75006:Carrolton")
+    print("Did not find entry for 75006:Carrolton")
 }
 
 
@@ -49,11 +49,11 @@ while(indexToCompare < zipCodesArray.count)
 
 if(didFindZip)
 {
-    println("Did find zip : 75006")
+    print("Did find zip : 75006")
 }
 else
 {
-    println("Did not find zip : 75006")
+    print("Did not find zip : 75006")
 }
 
 //3. Use a for loop to sort the below in ascending and descending orders.

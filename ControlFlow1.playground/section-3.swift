@@ -7,6 +7,6 @@ println("numberDictionary has \(numberDictionary.count) items")
 for (key, value) in numberDictionary
     
 {
-    println("key: \(key) --- value:\(value)")
+    print("key: \(key) --- value:\(value)")
 }
 

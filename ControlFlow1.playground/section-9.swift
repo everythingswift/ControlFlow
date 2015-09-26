@@ -14,9 +14,9 @@ do{
 
 if(nameFound)
 {
-    println("Did find \(toFind)")
+    print("Did find \(toFind)")
 }
 else
 {
-    println("Did not find \(toFind)")
+    print("Did not find \(toFind)")
 }

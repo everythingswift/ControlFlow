@@ -19,4 +19,4 @@ for q in 1...10
     }
 }
 
-println("\(first5Multiple)")
+print("\(first5Multiple)")
